@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rect_calc/static/css/main.8a5900f7.chunk.css",
+    "main.js": "/rect_calc/static/js/main.f782ff31.chunk.js",
+    "main.js.map": "/rect_calc/static/js/main.f782ff31.chunk.js.map",
+    "runtime-main.js": "/rect_calc/static/js/runtime-main.a2c39c7a.js",
+    "runtime-main.js.map": "/rect_calc/static/js/runtime-main.a2c39c7a.js.map",
+    "static/js/2.7d71e644.chunk.js": "/rect_calc/static/js/2.7d71e644.chunk.js",
+    "static/js/2.7d71e644.chunk.js.map": "/rect_calc/static/js/2.7d71e644.chunk.js.map",
+    "index.html": "/rect_calc/index.html",
+    "precache-manifest.5c1f6866b0939e0bcebbdae476b4f639.js": "/rect_calc/precache-manifest.5c1f6866b0939e0bcebbdae476b4f639.js",
+    "service-worker.js": "/rect_calc/service-worker.js",
+    "static/css/main.8a5900f7.chunk.css.map": "/rect_calc/static/css/main.8a5900f7.chunk.css.map"
+  }
+}
